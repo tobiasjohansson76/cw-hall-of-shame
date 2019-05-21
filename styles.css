@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+.warlog {
+    color: #888;
+    display: none;
+}
+.miss {
+    color: red;
+}
+.miss.coll2 {
+    color: #888;
+}
+.miss.coll1,
+.miss.war1 {
+    color: #BBB;
+}
